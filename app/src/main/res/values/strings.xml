@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AplicativoAP1</string>
+    <string name="first_fragment_label">Primeiro Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+    <string name="voltar">Voltar</string>
+    <string name="erick">Erick Xavier Ribeiro</string>
+    <string name="texto_erick">Estudante de ADS</string>
+    <string name="acessibilidade_github">GitHub</string>
+    <string name="acessibilidade_lindekin">Linkedin</string>
+    <string name="julia">Julia Lourenço Nogueira</string>
+    <string name="title">AP1 de Mobile</string>
+    <string name="calculadora_cigarro">Calculadora Cigarro</string>
+    <string name="lucas">Lucas Aguiar Nunes</string>
+    <string name="murillo">Murillo Luiz Inácio de Souza</string>
+    <string name="vinivius">Vinicius Ferreira de Freitas</string>
+</resources>

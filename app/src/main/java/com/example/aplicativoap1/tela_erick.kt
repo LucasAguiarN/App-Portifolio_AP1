@@ -22,6 +22,13 @@ class tela_erick : AppCompatActivity() {
             startActivity(intent)
         }
 
+        binding.logoLinkedin.setOnClickListener {
+            val url = "https://www.linkedin.com/in/erick-xavier-0a0b572a9/"
+            val intent = Intent(Intent.ACTION_VIEW)
+            intent.data = url.toUri()
+            startActivity(intent)
+        }
+
         binding.btnVoltar.setOnClickListener {
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)

@@ -1,20 +1,37 @@
 package com.example.aplicativoap1
 
+import android.content.Intent
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
+import androidx.core.net.toUri
+import com.example.aplicativoap1.databinding.ActivityTelaJuliaBinding
 
 class tela_julia : AppCompatActivity() {
+    private lateinit var binding: ActivityTelaJuliaBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
-        setContentView(R.layout.activity_tela_julia)
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
-            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
-            insets
+
+        binding = ActivityTelaJuliaBinding.inflate(layoutInflater)
+        setContentView(binding.root)
+
+        binding.logoGithub.setOnClickListener {
+            val url = "https://github.com/Jloren051"
+            val intent = Intent(Intent.ACTION_VIEW)
+            intent.data = url.toUri()
+            startActivity(intent)
+        }
+
+        binding.logoLinkedin.setOnClickListener {
+            val url = "https://www.linkedin.com/in/julia-louren%C3%A7o-8065082ba/"
+            val intent = Intent(Intent.ACTION_VIEW)
+            intent.data = url.toUri()
+            startActivity(intent)
+        }
+
+        binding.btnVoltar.setOnClickListener {
+            val intent = Intent(this, MainActivity::class.java)
+            startActivity(intent)
         }
     }
 }

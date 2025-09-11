@@ -25,7 +25,7 @@ class exercicio_cigarro : AppCompatActivity() {
 
             if (cigarros.isEmpty() || anos.isEmpty()){
                 binding.textResultado.setText("Preencha todos os Campos!")
-                binding.textResultado.setTextColor(getColor(R.color.red))
+                binding.textResultado.setTextColor(getColor(R.color.white))
             }
             else{
                 calcular_cigarros(cigarros.toInt(), anos.toInt())
@@ -37,6 +37,6 @@ class exercicio_cigarro : AppCompatActivity() {
         val total_minutos_perdidos: Int = total_cigarros * 10
         val dias_perdidos: Int = total_minutos_perdidos / 1440
         binding.textResultado.setText("Você Perdeu $dias_perdidos Dias de Vida devido ao Cigarro")
-        binding.textResultado.setTextColor(getColor(R.color.red))
+        binding.textResultado.setTextColor(getColor(R.color.white))
     }
 }

@@ -13,4 +13,8 @@
     <string name="lucas">Lucas Aguiar Nunes</string>
     <string name="murillo">Murillo Luiz Inácio de Souza</string>
     <string name="vinivius">Vinicius Ferreira de Freitas</string>
+    <string name="calculadora">Calculadora Cigarros</string>
+    <string name="calcular">Calcular</string>
+    <string name="anos">Há Quantos Anos Você Fuma?</string>
+    <string name="qtd_cigarros">Quantos Cigarros Fuma por Dia?</string>
 </resources>

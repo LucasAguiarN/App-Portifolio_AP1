@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AplicativoAP1">
         <activity
+            android:name=".exercicio_cigarro"
+            android:exported="false" />
+        <activity
             android:name=".tela_murillo"
             android:exported="false" />
         <activity

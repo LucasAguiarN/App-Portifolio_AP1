@@ -38,5 +38,10 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, tela_vinicius::class.java)
             startActivity(intent)
         }
+
+        binding.btnCigarro.setOnClickListener {
+            val intent = Intent(this, exercicio_cigarro::class.java)
+            startActivity(intent)
+        }
     }
 }

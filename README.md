@@ -13,7 +13,7 @@
 </p>
 
 <h2 id="sobre" align="center">Sobre</h2>
-App referente a Atividade Avaliativa 1 da disciplina Desenvolvimento Mobile, ministrada pelo professor Giovani Bontempo na Faculdade Impacta, durante o terceiro semestre do curso Análise e Desenvolvimento de Sistemas cursado no 2º Semestre de 2025.
+App referente a Atividade Avaliativa 1 da disciplina Desenvolvimento Mobile, ministrada pelo professor Odair Gabriel da Silva na Faculdade Impacta, durante o terceiro semestre do curso Análise e Desenvolvimento de Sistemas cursado no 2º Semestre de 2025.
 <br><br>
 O app deverá ter uma tela principal onde será possível navegar para telas que vão conter o portifólio de cada integrante e uma tela com a resolução do seguinte Eexercício:<br><br>
 Escreva um programa em kotlin para calcular a redução do tempo de vida

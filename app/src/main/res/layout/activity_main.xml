@@ -35,93 +35,33 @@
         app:layout_constraintTop_toBottomOf="@+id/imagem_main" />
 
     <Button
-        android:id="@+id/btn_erick"
+        android:id="@+id/btn_integrantes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:text="@string/erick"
-        android:textColor="#00CBFF"
+        android:layout_marginBottom="100dp"
         android:backgroundTint="@color/black"
-        android:textStyle="bold"
         android:fontFamily="sans-serif"
-        android:textSize="20sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/title" />
-
-    <Button
-        android:id="@+id/btn_julia"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:text="@string/julia"
+        android:text="@string/integrantes"
         android:textColor="#00CBFF"
-        android:backgroundTint="@color/black"
-        android:textStyle="bold"
-        android:fontFamily="sans-serif"
         android:textSize="20sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btn_erick" />
-
-    <Button
-        android:id="@+id/btn_lucas"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:text="@string/lucas"
-        android:textColor="#00CBFF"
-        android:backgroundTint="@color/black"
         android:textStyle="bold"
-        android:fontFamily="sans-serif"
-        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/btn_cigarro"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btn_julia" />
-
-    <Button
-        android:id="@+id/btn_murillo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:text="@string/murillo"
-        android:textColor="#00CBFF"
-        android:backgroundTint="@color/black"
-        android:textStyle="bold"
-        android:fontFamily="sans-serif"
-        android:textSize="20sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btn_lucas" />
-
-    <Button
-        android:id="@+id/btn_vinicius"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:text="@string/vinivius"
-        android:textColor="#00CBFF"
-        android:backgroundTint="@color/black"
-        android:textStyle="bold"
-        android:fontFamily="sans-serif"
-        android:textSize="20sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btn_murillo" />
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/btn_cigarro"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
+        android:layout_marginBottom="200dp"
+        android:backgroundTint="@color/black"
+        android:fontFamily="sans-serif"
         android:text="@string/calculadora_cigarro"
         android:textColor="#00CBFF"
-        android:backgroundTint="@color/black"
-        android:textStyle="bold"
-        android:fontFamily="sans-serif"
         android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btn_vinicius" />
+        app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

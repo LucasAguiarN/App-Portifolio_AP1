@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AplicativoAP1">
         <activity
+            android:name=".tela_integrantes"
+            android:exported="false" />
+        <activity
             android:name=".teste"
             android:exported="false" />
         <activity

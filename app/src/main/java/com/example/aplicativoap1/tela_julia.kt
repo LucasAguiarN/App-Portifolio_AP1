@@ -30,7 +30,7 @@ class tela_julia : AppCompatActivity() {
         }
 
         binding.btnVoltar.setOnClickListener {
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, tela_integrantes::class.java)
             startActivity(intent)
         }
     }

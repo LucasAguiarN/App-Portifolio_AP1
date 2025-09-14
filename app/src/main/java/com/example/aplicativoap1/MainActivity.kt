@@ -14,28 +14,8 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.btnErick.setOnClickListener {
-            val intent = Intent(this, tela_erick::class.java)
-            startActivity(intent)
-        }
-
-        binding.btnJulia.setOnClickListener {
-            val intent = Intent(this, tela_julia::class.java)
-            startActivity(intent)
-        }
-
-        binding.btnLucas.setOnClickListener {
-            val intent = Intent(this, tela_lucas::class.java)
-            startActivity(intent)
-        }
-
-        binding.btnMurillo.setOnClickListener {
-            val intent = Intent(this, tela_murillo::class.java)
-            startActivity(intent)
-        }
-
-        binding.btnVinicius.setOnClickListener {
-            val intent = Intent(this, tela_vinicius::class.java)
+        binding.btnIntegrantes.setOnClickListener {
+            val intent = Intent(this, tela_integrantes::class.java)
             startActivity(intent)
         }
 

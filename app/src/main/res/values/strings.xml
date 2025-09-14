@@ -4,7 +4,7 @@
     <string name="second_fragment_label">Segundo Fragmento</string>
     <string name="voltar">Voltar</string>
     <string name="erick">Erick Xavier Ribeiro</string>
-    <string name="texto_erick">Estudante de ADS</string>
+    <string name="texto_erick">RA 2403958</string>
     <string name="acessibilidade_github">GitHub</string>
     <string name="acessibilidade_lindekin">Linkedin</string>
     <string name="julia">Julia Lourenço Nogueira</string>
@@ -17,4 +17,9 @@
     <string name="calcular">Calcular</string>
     <string name="anos">Há Quantos Anos Você Fuma?</string>
     <string name="qtd_cigarros">Quantos Cigarros Fuma por Dia?</string>
+    <string name="texto_julia">RA 2403808</string>
+    <string name="texto_lucas">RA 2403912</string>
+    <string name="texto_murillo">RA 2400933</string>
+    <string name="texto_vinicius">RA 2403865</string>
+    <string name="integrantes">Integrantes</string>
 </resources>

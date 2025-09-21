@@ -2,6 +2,12 @@
 
 <h3 align="center"><img  alt="Faculdade Impacta" width = "400px" src="https://www.impacta.edu.br/themes/wc_agenciar3/images/logo-new.png"></h3>
 
+<p>
+    <img src="https://img.shields.io/badge/Status-Concluído-brightgreen" alt="Status = Concluído">
+    <img src="https://img.shields.io/badge/Documentação-Em_Andamento-yellow" alt="Documentação: Em Andamento">
+    <img src="https://img.shields.io/badge/License-MIT-blue" alt="License = MIT">
+</p>
+
 <br>
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -15,7 +21,7 @@
     <a href="#licença">Licença</a>
 </p>
 
-<h2 id="sobre" align="center">Sobre</h2>
+<h2 id="sobre">📖 Sobre</h2>
 App referente a Atividade Avaliativa 1 da disciplina Desenvolvimento Mobile, ministrada pelo professor Odair Gabriel da Silva na Faculdade Impacta, durante o terceiro semestre do curso Análise e Desenvolvimento de Sistemas cursado no 2º Semestre de 2025.
 <br><br>
 O app deverá ter uma tela principal onde será possível navegar para telas que vão conter o portifólio de cada integrante e uma tela com a resolução do seguinte Eexercício:<br><br>
@@ -27,7 +33,7 @@ quantos dias de vida um fumante perderá e exiba o total em dias.
 
 <br>
 
-<h2 id="grupo" align="center">Integrantes do Grupo</h2>
+<h2 id="grupo">👥 Integrantes do Grupo</h2>
 <table align="center">
   <tr>
     <td align="center">

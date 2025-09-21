@@ -4,7 +4,7 @@
 
 <p>
     <img src="https://img.shields.io/badge/Status-Concluído-brightgreen" alt="Status = Concluído">
-    <img src="https://img.shields.io/badge/Documentação-Em_Andamento-yellow" alt="Documentação: Em Andamento">
+    <img src="https://img.shields.io/badge/Documentação-Completa-brightgreen" alt="Documentação: Completa">
     <img src="https://img.shields.io/badge/License-MIT-blue" alt="License = MIT">
 </p>
 
@@ -70,13 +70,15 @@ quantos dias de vida um fumante perderá e exiba o total em dias.
 </table>
 
 <h2 id="interface">🖥️ Interface</h2>
-✦ Home <img src="" alt="Tela Home" width="400px"><br>
-✦ Integrantes <img src="" alt="Tela Integrantes" width="400px"><br>
-✦ Erick <img src="" alt="Tela Erick" width="400px"><br>
-✦ Julia <img src="" alt="Tela Julia" width="400px"><br>
-✦ Lucas <img src="" alt="Tela Lucas" width="400px"><br>
-✦ Murillo <img src="" alt="Tela Murillo" width="400px"><br>
-✦ Vinicius <img src="" alt="Tela Vinicius" width="400px"><br>
+<p align="center">✦ Icone<br><img src="Interface/icone.png" alt="Icone" width="200px"><br></p>
+<p align="center">✦ Home<br><img src="Interface/tela_home.png" alt="Tela Home" width="200px"><br></p>
+<p align="center">✦ Integrantes<br><img src="Interface/tela_integrantes.png" alt="Tela Integrantes" width="200px"><br></p>
+<p align="center">✦ Erick<br><img src="Interface/tela_erick.png" alt="Tela Erick" width="200px"><br></p>
+<p align="center">✦ Julia<br><img src="Interface/tela_julia.png" alt="Tela Julia" width="200px"><br></p>
+<p align="center">✦ Lucas<br><img src="Interface/tela_lucas.png" alt="Tela Lucas" width="200px"><br></p>
+<p align="center">✦ Murillo<br><img src="interface/tela_murillo.png" alt="Tela Murillo" width="200px"><br></p>
+<p align="center">✦ Vinicius<br><img src="Interface/tela_vinicius.png" alt="Tela Vinicius" width="200px"><br></p>
+<p align="center">✦ Exercício Cigarro<br><img src="Interface/tela_cigarro.png" alt="Tela Cigarro" width="200px"><br></p>
 
 <h2 id="how-it-works">⚙️ Funcionalidades</h2>
 🔹 Redirecionar para Linkedin e GitHub dos Integrantres

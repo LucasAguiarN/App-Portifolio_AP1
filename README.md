@@ -8,8 +8,11 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 <p align="center">
-    <a href="#sobre">Sobre</a> •
-    <a href="#grupo">Integrantes do Grupo</a>
+    <a href="#sobre">Sobre</a> • 
+    <a href="#grupo">Integrantes do Grupo</a> •
+    <a href="#interface">Interface</a> •
+    <a href="#how-it-works">Funcionalidades</a> • 
+    <a href="#licença">Licença</a>
 </p>
 
 <h2 id="sobre" align="center">Sobre</h2>
@@ -59,3 +62,19 @@ quantos dias de vida um fumante perderá e exiba o total em dias.
     </td>
   </tr>
 </table>
+
+<h2 id="interface">🖥️ Interface</h2>
+✦ Home <img src="" alt="Tela Home" width="400px"><br>
+✦ Integrantes <img src="" alt="Tela Integrantes" width="400px"><br>
+✦ Erick <img src="" alt="Tela Erick" width="400px"><br>
+✦ Julia <img src="" alt="Tela Julia" width="400px"><br>
+✦ Lucas <img src="" alt="Tela Lucas" width="400px"><br>
+✦ Murillo <img src="" alt="Tela Murillo" width="400px"><br>
+✦ Vinicius <img src="" alt="Tela Vinicius" width="400px"><br>
+
+<h2 id="how-it-works">⚙️ Funcionalidades</h2>
+🔹 Redirecionar para Linkedin e GitHub dos Integrantres
+<br>🔹 Calcular tempo perdido em anos devido ao fumo de cigarro, considerando que a cada cigarro perde-se 10 minutos.
+
+<h2 id="licença">📜 Licença</h2>
+Este projeto é para fins educacionais e está disponível sob a <a href="./LICENSE">Licença MIT.</a>

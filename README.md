@@ -76,7 +76,7 @@ quantos dias de vida um fumante perderá e exiba o total em dias.
 <p align="center">✦ Erick<br><img src="Interface/tela_erick.png" alt="Tela Erick" width="200px"><br></p>
 <p align="center">✦ Julia<br><img src="Interface/tela_julia.png" alt="Tela Julia" width="200px"><br></p>
 <p align="center">✦ Lucas<br><img src="Interface/tela_lucas.png" alt="Tela Lucas" width="200px"><br></p>
-<p align="center">✦ Murillo<br><img src="interface/tela_murillo.png" alt="Tela Murillo" width="200px"><br></p>
+<p align="center">✦ Murillo<br><img src="Interface/tela_murillo.png" alt="Tela Murillo" width="200px"><br></p>
 <p align="center">✦ Vinicius<br><img src="Interface/tela_vinicius.png" alt="Tela Vinicius" width="200px"><br></p>
 <p align="center">✦ Exercício Cigarro<br><img src="Interface/tela_cigarro.png" alt="Tela Cigarro" width="200px"><br></p>
 
